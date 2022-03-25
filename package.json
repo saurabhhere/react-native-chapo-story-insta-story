@@ -1,8 +1,8 @@
 {
-  "name": "react-native-insta-story",
-  "title": "React Native Insta Story",
-  "version": "1.1.7",
-  "description": "Story component for React Native.",
+  "name": "react-native-chapo-story-insta",
+  "title": "React Native Chapo Story Insta",
+  "version": "1.0.1",
+  "description": "Story component for React Native With Tags.",
   "main": "index.js",
   "files": [
     "README.md",
@@ -17,18 +17,19 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caglardurmus/react-native-insta-story.git",
-    "baseUrl": "https://github.com/caglardurmus/react-native-insta-story"
+    "url": "git+https://github.com/saurabhhere/react-native-chapo-story-insta-story",
+    "baseUrl": "https://github.com/saurabhhere/react-native-chapo-story-insta-story"
   },
   "keywords": [
     "react-native",
     "insta-story",
     "story",
-    "instagram"
+    "instagram",
+    "tags"
   ],
   "author": {
-    "name": "Ahmet Çağlar Durmuş",
-    "email": "caglardurmus@icloud.com"
+    "name": "Saurabh Gupta",
+    "email": "saurabhguptajpr@yahoo.in"
   },
   "readmeFilename": "README.md",
   "peerDependencies": {
